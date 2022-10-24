@@ -1,0 +1,23 @@
+{
+  "name": "workout-tracker-app",
+  "version": "1.0.0",
+  "description": "This app is to plan, organize and track your workouts.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peri7at/workout-tracker-app.git"
+  },
+  "author": "Peri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Peri7at/workout-tracker-app/issues"
+  },
+  "homepage": "https://github.com/Peri7at/workout-tracker-app#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
